@@ -1,5 +1,4 @@
 # Estória
-Não é história, é estória estúpido.
 
 ## Documentação
 A documentação desta biblioteca pode ser acessada através da [Wiki](https://github.com/lucasPereira/estoria/wiki).
